@@ -1,0 +1,51 @@
+source_file,vendor_name,invoice_number,invoice_date,subtotal,sales_tax,total_amount
+invoice_001.pdf,Indus Cloud Hosting Services,IC-1001,2026-08-01,14400,2592,16992
+invoice_002.pdf,Potohar Power Solutions,INV-1002,2026-09-08,7000,1260,8260
+invoice_003.pdf,Indus Cloud Hosting Services,IC-1003,2026-09-03,52800,9504,62304
+invoice_004.pdf,Margalla Office Supplies (Pvt) Ltd,INV-1004,2026-07-01,57200,10296,67496
+invoice_005.pdf,Rawal Logistics & Couriers,B-1005,2026-07-14,23950,4311,28261
+invoice_006.pdf,Indus Cloud Hosting Services,IC-1006,2026-08-03,86500,15570,102070
+invoice_007.pdf,Margalla Office Supplies (Pvt) Ltd,INV-1007,2026-09-19,23050,4149,27199
+invoice_008.pdf,Kohsar Printing Press,B-1008,2026-07-11,38700,6966,45666
+invoice_009.pdf,Potohar Power Solutions,INV-1009,2026-08-28,45000,8100,53100
+invoice_010.pdf,Kohsar Printing Press,B-1010,2026-07-27,19500,3510,23010
+invoice_011.pdf,Blue Area Facility Management,IC-1011,2026-07-21,336500,60570,397070
+invoice_012.pdf,Saddar IT Hardware Traders,INV-1012,2026-07-29,277000,49860,326860
+invoice_013.pdf,Kohsar Printing Press,B-1013,2026-08-10,1800,324,2124
+invoice_014.pdf,Faisal Town Internet Services,IC-1014,2026-08-10,119000,21420,140420
+invoice_015.pdf,Potohar Power Solutions,INV-1015,2026-08-01,100000,18000,118000
+invoice_016.pdf,Blue Area Facility Management,IC-1016,2026-09-04,139500,25110,164610
+invoice_017.pdf,Saddar IT Hardware Traders,INV-1017,2026-07-20,2400,432,2832
+invoice_018.pdf,Rawal Logistics & Couriers,B-1018,2026-09-06,47250,8505,55755
+invoice_019.pdf,Blue Area Facility Management,IC-1019,2026-08-07,307500,55350,362850
+invoice_020.pdf,Faisal Town Internet Services,IC-1020,2026-08-03,3500,630,4130
+invoice_021.pdf,Rawal Logistics & Couriers,B-1021,2026-09-08,24500,4410,28910
+invoice_022.pdf,Margalla Office Supplies (Pvt) Ltd,INV-1022,2026-07-31,20150,3627,23777
+invoice_023.pdf,Margalla Office Supplies (Pvt) Ltd,INV-1023,2026-07-11,2300,414,2714
+invoice_024.pdf,Saddar IT Hardware Traders,INV-1024,2026-08-30,6400,1152,7552
+invoice_025.pdf,Rawal Logistics & Couriers,B-1025,2026-07-26,25600,4608,30208
+invoice_026.pdf,Blue Area Facility Management,IC-1026,2026-08-27,94000,16920,110920
+invoice_027.pdf,Indus Cloud Hosting Services,IC-1027,2026-08-13,18500,3330,21830
+invoice_028.pdf,Margalla Office Supplies (Pvt) Ltd,INV-1028,2026-09-19,57150,10287,67437
+invoice_029.pdf,Margalla Office Supplies (Pvt) Ltd,INV-1029,2026-08-12,1450,261,1711
+invoice_030.pdf,Indus Cloud Hosting Services,IC-1030,2026-09-12,77600,13968,91568
+invoice_031.pdf,Saddar IT Hardware Traders,INV-1031,2026-07-25,152000,27360,179360
+invoice_032.pdf,Indus Cloud Hosting Services,IC-1032,2026-08-15,19200,3456,22656
+invoice_033.pdf,Faisal Town Internet Services,IC-1033,2026-07-13,153000,27540,180540
+invoice_034.pdf,Margalla Office Supplies (Pvt) Ltd,INV-1034,2026-07-25,20100,3618,23718
+invoice_035.pdf,Potohar Power Solutions,INV-1035,2026-08-01,131500,23670,155170
+invoice_036.pdf,Indus Cloud Hosting Services,IC-1036,2026-09-08,115800,20844,136644
+invoice_037.pdf,Margalla Office Supplies (Pvt) Ltd,INV-1037,2026-08-22,2900,522,3422
+invoice_038.pdf,Saddar IT Hardware Traders,INV-1038,2026-08-18,79200,14256,93456
+invoice_039.pdf,Margalla Office Supplies (Pvt) Ltd,INV-1039,2026-09-10,35900,6462,42362
+invoice_040.pdf,Saddar IT Hardware Traders,INV-1040,2026-07-28,9600,1728,11328
+invoice_041.pdf,Margalla Office Supplies (Pvt) Ltd,INV-1041,2026-08-31,48250,8685,56935
+invoice_042.pdf,Rawal Logistics & Couriers,B-1042,2026-07-24,9800,1764,11564
+invoice_043.pdf,Indus Cloud Hosting Services,IC-1043,2026-09-13,54900,9882,64782
+invoice_044.pdf,Margalla Office Supplies (Pvt) Ltd,INV-1044,2026-08-10,35950,6471,42421
+invoice_045.pdf,Potohar Power Solutions,INV-1045,2026-08-08,237000,42660,279660
+invoice_046.pdf,Saddar IT Hardware Traders,INV-1046,2026-09-11,199600,35928,235528
+invoice_047.pdf,Indus Cloud Hosting Services,IC-1047,2026-09-03,9600,1728,11328
+invoice_048.pdf,Blue Area Facility Management,IC-1011,2026-07-21,336500,60570,397070
+invoice_049.pdf,Margalla Office Supplies (Pvt) Ltd,INV-1029,2026-08-12,1450,261,1711
+invoice_050.pdf,Potohar Power Solutions,INV-1035,2026-08-01,131500,23670,155170

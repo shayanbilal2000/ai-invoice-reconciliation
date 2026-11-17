@@ -1,0 +1,53 @@
+source_file,bank_reference,expected_status
+,TXN0021,Unexplained Payment
+,TXN0034,Unexplained Payment
+invoice_001.pdf,,Matched
+invoice_002.pdf,,Matched
+invoice_003.pdf,,Matched
+invoice_004.pdf,,Matched
+invoice_005.pdf,,Amount Mismatch
+invoice_006.pdf,,Matched
+invoice_007.pdf,,Matched
+invoice_008.pdf,,Matched
+invoice_009.pdf,,Unpaid Invoice
+invoice_010.pdf,,Matched
+invoice_011.pdf,,Matched
+invoice_012.pdf,,Matched
+invoice_013.pdf,,Matched
+invoice_014.pdf,,Matched
+invoice_015.pdf,,Matched
+invoice_016.pdf,,Amount Mismatch
+invoice_017.pdf,,Unpaid Invoice
+invoice_018.pdf,,Matched
+invoice_019.pdf,,Amount Mismatch
+invoice_020.pdf,,Matched
+invoice_021.pdf,,Matched
+invoice_022.pdf,,Matched
+invoice_023.pdf,,Unpaid Invoice
+invoice_024.pdf,,Amount Mismatch
+invoice_025.pdf,,Matched
+invoice_026.pdf,,Matched
+invoice_027.pdf,,Matched
+invoice_028.pdf,,Matched
+invoice_029.pdf,,Matched
+invoice_030.pdf,,Matched
+invoice_031.pdf,,Matched
+invoice_032.pdf,,Matched
+invoice_033.pdf,,Matched
+invoice_034.pdf,,Matched
+invoice_035.pdf,,Matched
+invoice_036.pdf,,Matched
+invoice_037.pdf,,Matched
+invoice_038.pdf,,Matched
+invoice_039.pdf,,Matched
+invoice_040.pdf,,Matched
+invoice_041.pdf,,Matched
+invoice_042.pdf,,Matched
+invoice_043.pdf,,Matched
+invoice_044.pdf,,Matched
+invoice_045.pdf,,Matched
+invoice_046.pdf,,Matched
+invoice_047.pdf,,Matched
+invoice_048.pdf,,Duplicate Invoice
+invoice_049.pdf,,Duplicate Invoice
+invoice_050.pdf,,Duplicate Invoice
